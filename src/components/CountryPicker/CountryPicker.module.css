@@ -1,0 +1,13 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    padding: 30px;
+}
+
+/* for tablets & mibile devices */
+@media (max-width: 770px) {
+    .formControl {
+        width: 50%;
+        padding: 10px;
+    }
+}
